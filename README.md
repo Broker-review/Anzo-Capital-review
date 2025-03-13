@@ -6,21 +6,6 @@ Introduction
 
 Anzo Capital is a forex and CFD broker that offers traders access to various financial markets, competitive spreads, and multiple trading platforms. As the trading landscape evolves, it’s essential to evaluate whether Anzo Capital remains a suitable choice in 2025. This review covers trading conditions, security measures, platform updates, and user feedback to provide an objective assessment of the broker.
 
-| **Asset** | **details** | 
-|-------------| -------------- | 
-| Trading platform | WebTrader | 
-| Accounts | Basic, Premium, Vip, Islamic | 
-| Account currency | USD | 
-| Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
-| Minimum deposit | 250 USD | 
-| Leverage | Up to 1:30 | 
-| PAMM accounts | No | 
-| Min order | 0,01 |
-| EUR/USD spread | 2.5 -2.9   | 
-| Instruments | CFD on Forex, stocks, indeces, metals, energies, commodities, cryptocurrencies and ETFs | 
-| Margin call/ Stop out | No information | 
-| Liquidity power | No information | 
-| Mobile trading | Yes |
 
 ![image]()
 
