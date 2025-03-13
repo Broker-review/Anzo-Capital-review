@@ -7,7 +7,7 @@ Introduction
 Anzo Capital is a forex and CFD broker that offers traders access to various financial markets, competitive spreads, and multiple trading platforms. As the trading landscape evolves, it’s essential to evaluate whether Anzo Capital remains a suitable choice in 2025. This review covers trading conditions, security measures, platform updates, and user feedback to provide an objective assessment of the broker.
 
 
-![image]()
+![image](https://github.com/Broker-review/Anzo-Capital-review/blob/2c2c5e7be2db2ae851e28519b05fd9155e5f1d39/Anzo-Capital-1200x675.jpg)
 
 Key Features and Updates in 2025
 --------------------
